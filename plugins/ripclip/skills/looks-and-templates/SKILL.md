@@ -1,6 +1,6 @@
 ---
 name: looks-and-templates
-description: Saves and reuses the look of clips in RipClip. Use when the user wants to keep a look to use again ("save this style", "make this my template", "edit it like last time"), wants every new clip to get a look automatically, wants their clips to look like a TikTok or YouTube clip they link, or wants a saved template or clipping preset put on other clips. Not for a one-off caption or color change, or for cutting new clips.
+description: "Saves and reuses the look of clips in RipClip. Use when the user wants to keep a look to use again (\"save this style\", \"make this my template\", \"edit it like last time\"), wants every new clip to get a look automatically, wants their clips to look like a TikTok or YouTube clip they link, or wants a saved template or clipping preset put on other clips. Not for a one-off caption or color change, or for cutting new clips."
 ---
 
 # Looks and templates

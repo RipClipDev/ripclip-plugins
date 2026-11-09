@@ -1,6 +1,6 @@
 ---
 name: post-clips
-description: Writes captions and saves post drafts for clips in RipClip. Use when the user wants a caption or hashtags for TikTok, YouTube Shorts, Instagram Reels, Facebook, Threads, X or Bluesky, wants a clip put on the posting calendar for a day and time, wants a week of posts planned, or wants to change or delete a draft. Saves drafts only: the user reviews and schedules each one in RipClip. Not for editing the video or reading results.
+description: "Writes captions and saves post drafts for clips in RipClip. Use when the user wants a caption or hashtags for TikTok, YouTube Shorts, Instagram Reels, Facebook, Threads, X or Bluesky, wants a clip put on the posting calendar for a day and time, wants a week of posts planned, or wants to change or delete a draft. Saves drafts only: the user reviews and schedules each one in RipClip. Not for editing the video or reading results."
 ---
 
 # Draft posts

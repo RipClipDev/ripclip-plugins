@@ -1,6 +1,6 @@
 ---
 name: write-my-captions
-description: Writes a caption per platform for the newest clip and saves the chosen ones as drafts. Use when the user runs /ripclip:write-my-captions.
+description: "Writes a caption per platform for the newest clip and saves the chosen ones as drafts. Use when the user runs /ripclip:write-my-captions."
 argument-hint: "[platforms]"
 disable-model-invocation: true
 ---

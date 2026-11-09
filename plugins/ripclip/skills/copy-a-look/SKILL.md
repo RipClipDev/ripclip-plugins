@@ -1,6 +1,6 @@
 ---
 name: copy-a-look
-description: Copies the caption and layout look of someone else's TikTok or YouTube clip into a clipping preset. Use when the user runs /ripclip:copy-a-look.
+description: "Copies the caption and layout look of someone else's TikTok or YouTube clip into a clipping preset. Use when the user runs /ripclip:copy-a-look."
 argument-hint: "[TikTok or YouTube link] [name]"
 disable-model-invocation: true
 ---

@@ -1,6 +1,6 @@
 ---
 name: edit-clips
-description: Edits finished clips and photos in RipClip from plain requests. Use when the user wants bigger or recolored captions, silences or filler words cut, music, a title, a facecam split, a trim, a color grade, filters, effects, transitions, speed, a different shape, text, stickers, sound effects, or subtitles in another language; a brighter, warmer or punchier look; zoom, mirror or reframing; a part slowed down, frozen or cut out; the original sound muted or cleaned up; a photo brightened; or the last edit undone, and then wants to see the result. Every edit is free and can be undone. Not for cutting new clips from a long video or for posting.
+description: "Edits finished clips and photos in RipClip from plain requests. Use when the user wants bigger or recolored captions, silences or filler words cut, music, a title, a facecam split, a trim, a color grade, filters, effects, transitions, speed, a different shape, text, stickers, sound effects, or subtitles in another language; a brighter, warmer or punchier look; zoom, mirror or reframing; a part slowed down, frozen or cut out; the original sound muted or cleaned up; a photo brightened; or the last edit undone, and then wants to see the result. Every edit is free and can be undone. Not for cutting new clips from a long video or for posting."
 ---
 
 # Edit clips

@@ -1,6 +1,6 @@
 ---
 name: edit-my-clip
-description: Changes the newest clip, or the one named, by describing the change. Use when the user runs /ripclip:edit-my-clip.
+description: "Changes the newest clip, or the one named, by describing the change. Use when the user runs /ripclip:edit-my-clip."
 argument-hint: "[what to change]"
 disable-model-invocation: true
 ---

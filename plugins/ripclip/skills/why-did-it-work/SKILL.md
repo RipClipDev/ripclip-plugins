@@ -1,6 +1,6 @@
 ---
 name: why-did-it-work
-description: Finds what the user's stronger posts have in common, honestly, and whether anything is taking off now. Use when the user runs /ripclip:why-did-it-work.
+description: "Finds what the user's stronger posts have in common, honestly, and whether anything is taking off now. Use when the user runs /ripclip:why-did-it-work."
 argument-hint: "[days]"
 disable-model-invocation: true
 ---

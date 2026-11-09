@@ -1,6 +1,6 @@
 ---
 name: clip-videos
-description: Turns long videos into short vertical clips with RipClip. Use when the user wants to clip a Twitch or Kick stream or VOD, turn a podcast episode or a video link into shorts or TikToks, find the highlights or one topic in a long video, or cut an exact time range. Imports the video, quotes the cost in Horizon Units and cuts clips only after the user approves. Not for editing a finished clip, writing or scheduling posts, or checking views.
+description: "Turns long videos into short vertical clips with RipClip. Use when the user wants to clip a Twitch or Kick stream or VOD, turn a podcast episode or a video link into shorts or TikToks, find the highlights or one topic in a long video, or cut an exact time range. Imports the video, quotes the cost in Horizon Units and cuts clips only after the user approves. Not for editing a finished clip, writing or scheduling posts, or checking views."
 ---
 
 # Clip long videos

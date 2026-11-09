@@ -1,6 +1,6 @@
 ---
 name: restyle-my-clip
-description: Gives the newest clip a whole new look, adding what it needs, and shows the result. Use when the user runs /ripclip:restyle-my-clip.
+description: "Gives the newest clip a whole new look, adding what it needs, and shows the result. Use when the user runs /ripclip:restyle-my-clip."
 argument-hint: "[the look]"
 disable-model-invocation: true
 ---

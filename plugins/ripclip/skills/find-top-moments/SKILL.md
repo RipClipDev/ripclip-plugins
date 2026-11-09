@@ -1,6 +1,6 @@
 ---
 name: find-top-moments
-description: Searches a stream or video for its top moments, or the moments about one topic, and clips the ones the user picks. Use when the user runs /ripclip:find-top-moments.
+description: "Searches a stream or video for its top moments, or the moments about one topic, and clips the ones the user picks. Use when the user runs /ripclip:find-top-moments."
 argument-hint: "[video link or channel] [topic]"
 disable-model-invocation: true
 ---

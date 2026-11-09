@@ -1,6 +1,6 @@
 ---
 name: track-posts
-description: Reports how posts made through RipClip performed. Use when the user asks how their clips or videos are doing, how last week went, which platform works for them, when to post, whether anything is taking off, why some posts did better, how many followers they gained, or what to post next. Reads only; never changes posts. Not for editing clips or writing drafts.
+description: "Reports how posts made through RipClip performed. Use when the user asks how their clips or videos are doing, how last week went, which platform works for them, when to post, whether anything is taking off, why some posts did better, how many followers they gained, or what to post next. Reads only; never changes posts. Not for editing clips or writing drafts."
 ---
 
 # Track posts

@@ -1,6 +1,6 @@
 ---
 name: what-to-post-next
-description: Picks the next clips to post and where, then offers to draft them. Use when the user runs /ripclip:what-to-post-next.
+description: "Picks the next clips to post and where, then offers to draft them. Use when the user runs /ripclip:what-to-post-next."
 argument-hint: "[time zone]"
 disable-model-invocation: true
 ---

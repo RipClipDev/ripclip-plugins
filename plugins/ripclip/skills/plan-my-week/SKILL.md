@@ -1,6 +1,6 @@
 ---
 name: plan-my-week
-description: Drafts a week of posts from the top unposted clips at the user's strongest posting times. Use when the user runs /ripclip:plan-my-week.
+description: "Drafts a week of posts from the top unposted clips at the user's strongest posting times. Use when the user runs /ripclip:plan-my-week."
 argument-hint: "[platforms] [time zone]"
 disable-model-invocation: true
 ---

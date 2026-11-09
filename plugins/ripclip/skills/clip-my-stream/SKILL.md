@@ -1,6 +1,6 @@
 ---
 name: clip-my-stream
-description: Clips a stream or video end to end, from the link to download and editor links. Use when the user runs /ripclip:clip-my-stream.
+description: "Clips a stream or video end to end, from the link to download and editor links. Use when the user runs /ripclip:clip-my-stream."
 argument-hint: "[video link or Kick/Twitch channel] [how many clips]"
 disable-model-invocation: true
 ---
