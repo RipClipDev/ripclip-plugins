@@ -1,0 +1,35 @@
+{
+  "name": "ripclip",
+  "displayName": "RipClip",
+  "version": "1.0.0",
+  "description": "Clip long videos (Twitch and Kick streams, VODs, podcasts) into captioned vertical shorts, edit them, plan posts for TikTok, YouTube Shorts and Reels, and track views, from the chat.",
+  "author": {
+    "name": "RipClip",
+    "url": "https://ripclip.org"
+  },
+  "homepage": "https://ripclip.org",
+  "repository": "https://github.com/RipClipDev/ripclip-plugins",
+  "keywords": [
+    "video clips",
+    "shorts",
+    "highlights",
+    "twitch",
+    "kick",
+    "vod",
+    "stream clipper",
+    "podcast",
+    "tiktok",
+    "youtube shorts",
+    "reels",
+    "captions",
+    "subtitles",
+    "video editor",
+    "social media posts",
+    "analytics"
+  ],
+  "icon": "./assets/icon.png",
+  "documentationUrl": "https://ripclip.org/ai-assistants",
+  "supportUrl": "https://ripclip.org/support",
+  "privacyPolicyUrl": "https://ripclip.org/privacy",
+  "termsOfServiceUrl": "https://ripclip.org/terms"
+}

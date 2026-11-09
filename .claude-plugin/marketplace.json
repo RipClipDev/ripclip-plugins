@@ -1,0 +1,15 @@
+{
+  "name": "ripclip-plugins",
+  "description": "RipClip for Claude: clip long videos into shorts, edit them, plan posts and track views.",
+  "owner": {
+    "name": "RipClip",
+    "url": "https://ripclip.org"
+  },
+  "plugins": [
+    {
+      "name": "ripclip",
+      "source": "./plugins/ripclip",
+      "description": "Clip long videos (Twitch and Kick streams, VODs, podcasts) into captioned vertical shorts, edit them, plan posts for TikTok, YouTube Shorts and Reels, and track views, from the chat."
+    }
+  ]
+}

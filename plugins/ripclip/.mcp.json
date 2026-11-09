@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "ripclip": {
+      "type": "http",
+      "url": "https://ripclip.org/mcp/"
+    }
+  }
+}
