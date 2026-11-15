@@ -28,6 +28,17 @@ gemini extensions install https://github.com/RipClipDev/ripclip-plugins
 
 The first RipClip tool call opens RipClip's sign-in in your browser.
 
+## About RipClip
+
+[RipClip](https://ripclip.org) is a browser app that clips, edits, posts and tracks short videos in one place. Guides:
+
+- [Kick clip maker](https://ripclip.org/kick-clip-maker) and [Twitch clip maker](https://ripclip.org/twitch-clip-maker)
+- [How to clip on Kick](https://ripclip.org/how-to-clip-on-kick) and [on Twitch](https://ripclip.org/how-to-clip-on-twitch)
+- [Turn a long video into shorts](https://ripclip.org/long-video-to-shorts)
+- [Clip a Kick or Twitch VOD for a clipping campaign](https://ripclip.org/clip-kick-streams-for-campaigns) and [clipper pay rates per million views](https://ripclip.org/clipper-pay-rates)
+- [AI clip makers for Kick, compared](https://ripclip.org/kick-clip-makers-compared) and [RipClip compared with other clip makers](https://ripclip.org/alternatives)
+- [Use RipClip from AI apps](https://ripclip.org/ai-assistants) (Claude, ChatGPT, Cursor, VS Code, Gemini CLI and local models)
+
 ## Data handling
 
 The plugin talks to one place: RipClip's server at `https://ripclip.org/mcp/`, over a sign-in you approve (OAuth). It sends what you ask Claude to do there: video links to import, clip edits, captions and post drafts. It contains no hooks, no programs and no other network destinations. RipClip saves drafts only and never publishes a post by itself. Work that uses Horizon Units is quoted first and runs only after you approve it.
