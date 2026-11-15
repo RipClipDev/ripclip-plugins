@@ -1,0 +1,11 @@
+{
+  "name": "ripclip",
+  "version": "1.0.1",
+  "description": "Turn Twitch and Kick streams, podcasts and long videos into captioned vertical shorts; edit them, draft posts and track views.",
+  "mcpServers": {
+    "ripclip": {
+      "httpUrl": "https://ripclip.org/mcp/"
+    }
+  },
+  "contextFileName": "GEMINI.md"
+}

@@ -18,6 +18,16 @@ In Claude, find RipClip under Plugins, Discover, and add it. In Claude Code:
 /plugin install ripclip@ripclip-plugins
 ```
 
+### Gemini CLI
+
+This repository is also a Gemini CLI extension (`gemini-extension.json`):
+
+```
+gemini extensions install https://github.com/RipClipDev/ripclip-plugins
+```
+
+The first RipClip tool call opens RipClip's sign-in in your browser.
+
 ## Data handling
 
 The plugin talks to one place: RipClip's server at `https://ripclip.org/mcp/`, over a sign-in you approve (OAuth). It sends what you ask Claude to do there: video links to import, clip edits, captions and post drafts. It contains no hooks, no programs and no other network destinations. RipClip saves drafts only and never publishes a post by itself. Work that uses Horizon Units is quoted first and runs only after you approve it.
