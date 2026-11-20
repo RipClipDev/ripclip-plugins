@@ -18,6 +18,8 @@ In Claude, find RipClip under Plugins, Discover, and add it. In Claude Code:
 /plugin install ripclip@ripclip-plugins
 ```
 
+The same repository is a Cursor plugin (`.cursor-plugin/`): find RipClip in the Cursor Marketplace, or add `{"mcpServers": {"ripclip": {"url": "https://ripclip.org/mcp/"}}}` to Cursor's `mcp.json`.
+
 ### Gemini CLI
 
 This repository is also a Gemini CLI extension (`gemini-extension.json`):
@@ -47,3 +49,5 @@ The plugin talks to one place: RipClip's server at `https://ripclip.org/mcp/`, o
 - Privacy: https://ripclip.org/privacy
 - Terms: https://ripclip.org/terms
 - Support: https://ripclip.org/support (support@ripclip.org)
+
+MIT licensed (LICENSE). The RipClip name and logo are trademarks of RipClip and are not covered by that licence.

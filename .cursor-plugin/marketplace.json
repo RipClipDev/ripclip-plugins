@@ -1,0 +1,18 @@
+{
+  "name": "ripclip-plugins",
+  "owner": {
+    "name": "RipClip",
+    "email": "support@ripclip.org"
+  },
+  "metadata": {
+    "description": "RipClip for Cursor: clip long videos into shorts, edit them, plan posts and track views.",
+    "version": "1.0.0"
+  },
+  "plugins": [
+    {
+      "name": "ripclip",
+      "source": "./plugins/ripclip",
+      "description": "Clip long videos (Twitch and Kick streams, VODs, podcasts) into captioned vertical shorts, edit them, plan posts for TikTok, YouTube Shorts and Reels, and track views, from the chat."
+    }
+  ]
+}
